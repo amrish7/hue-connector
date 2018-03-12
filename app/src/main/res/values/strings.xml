@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HueConnector</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key">AIzaSyCpzvItvsp1ypooVh1-YPoYeJIwASojUQs</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
